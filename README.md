@@ -4,6 +4,8 @@ I am a passionate software developer at Codelex.
 You know what I like the most about being a programmer? The feeling after solving a problem or finishing a task which felt absolutely impossible at first.
 
 My skillset includes:
+- PHP
+- Javascript
 - MySQL
 - Laravel
 - MVC
