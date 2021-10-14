@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello! 👋
+My name is Kārlis Strūve.
+I am a passionate software developer at Codelex.
+You know what I like the most about being a programmer? The feeling after solving a problem or finishing a task which felt absolutely impossible at first.
 
-<!--
-**KarlStruv/KarlStruv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My skillset includes:
+- MySQL
+- Laravel
+- Unit & Integration testing (including TDD methods)
+- MVC, SOLID & design patterns (KISS, DRY etc.)
+- GIT
+- Building REST API
+- HTML & CSS, VueJS basics.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can reach me at:
+✉️ - struve3@gmail.com
+📞 - +371 28663271
+💬 - https://www.linkedin.com/in/karlis-struve/
