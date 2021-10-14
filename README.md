@@ -6,11 +6,10 @@ You know what I like the most about being a programmer? The feeling after solvin
 My skillset includes:
 - MySQL
 - Laravel
-- Unit & Integration testing (including TDD methods)
-- MVC, SOLID & design patterns (KISS, DRY etc.)
+- MVC
 - GIT
 - Building REST API
-- HTML & CSS, VueJS basics.
+- HTML & CSS
 
 You can reach me at: <br />
 📞 - +371 28663271 <br />
