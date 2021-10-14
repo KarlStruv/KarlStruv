@@ -12,7 +12,7 @@ My skillset includes:
 - Building REST API
 - HTML & CSS, VueJS basics.
 
-You can reach me at:
-✉️ - struve3@gmail.com
-📞 - +371 28663271
+You can reach me at: <br />
+✉️ - struve3@gmail.com <br />
+📞 - +371 28663271 <br />
 💬 - https://www.linkedin.com/in/karlis-struve/
