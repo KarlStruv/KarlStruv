@@ -11,7 +11,10 @@ My skillset includes:
 - MVC, SOLID & design patterns (KISS, DRY etc.)
 - GIT
 - Building REST API
-- HTML & CSS, VueJS Basics
+- HTML & CSS
+- Magento 2
+- Doctrine
+- Symfony
 
 You can reach me at: <br />
 📞 - +371 28663271 <br />
